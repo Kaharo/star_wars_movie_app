@@ -4,6 +4,7 @@
   "description": "A basic movie app for Star War fans",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kaharo",
